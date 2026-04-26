@@ -15,7 +15,7 @@ The aim of this analysis is to:
 ---
 
 ## Dataset
-The dataset consists of a single time series representing monthly observed values of a process over 504 time points.
+Simulated monthly time series data provided as part of coursework. Data files not included in this repository
 
 ---
 
